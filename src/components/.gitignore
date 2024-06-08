@@ -1,0 +1,27 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore logs
+logs
+*.log
+npm-debug.log*
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore npm cache directory
+.npm/
+
+# Ignore VS Code settings directory
+.vscode/
