@@ -33,3 +33,5 @@ node_modules/
 # Ignore Git version control files and directories
 .git
 .gitignore
+# Ignore the dist folder
+dist/
